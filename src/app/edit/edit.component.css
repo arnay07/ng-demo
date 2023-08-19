@@ -1,0 +1,18 @@
+:host {
+  display: block;
+  padding: 0 20px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.alert {
+  margin-top: 10px;
+}
+
+.alert-danger {
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
